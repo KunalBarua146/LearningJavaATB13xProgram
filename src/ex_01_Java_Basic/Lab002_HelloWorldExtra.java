@@ -6,3 +6,4 @@ public class Lab002_HelloWorldExtra {
         System.out.println(2+2);
     }
 }
+
